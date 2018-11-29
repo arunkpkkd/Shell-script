@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 my test file
+=======
+my test file
+updated today
+now its evening
+
+>>>>>>> 6eeba4ddb768d554eff6bf418d5deb34f6297b4e
